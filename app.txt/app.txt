@@ -1,2 +1,3 @@
 Its devops training app
 Env: Dev
+Version: 1.0
